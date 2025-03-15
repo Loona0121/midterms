@@ -1,2 +1,2 @@
-# midterms
+# Midterms
  my website
